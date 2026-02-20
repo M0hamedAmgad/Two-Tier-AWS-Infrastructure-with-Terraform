@@ -59,7 +59,7 @@ I’d love to hear your feedback! Feel free to share your thoughts.
 
 📧 **Connect with me:**
 
-- **GitHub**: [@M0hamedAmgad](https://github.com/NotHarshhaa)    
+- **GitHub**: [M0hamedAmgad](https://github.com/NotHarshhaa)    
 - **LinkedIn**: [Mohamed Amgad Elgamal](https://www.linkedin.com/in/mohamed-amgad-elgamal)  
 
 ---
